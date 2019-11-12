@@ -1,12 +1,7 @@
-sudo: true
-language: csharp
-solution: FinalUnitTests.sln
-mono: none
-dotnet: 3.0
-
-install:
-    - dotnet restore
-script:
-    - dotnet build
-notifications:
-    email: false
+os: osx
+osx_image: xcode11.2
+language: node_js
+node_js:
+  - 12
+cache:
+  npm: false

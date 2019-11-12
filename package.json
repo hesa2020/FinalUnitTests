@@ -1,0 +1,23 @@
+{
+  "name": "finalunittests",
+  "version": "1.0.0",
+  "description": "Final Unit Tests",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "Sylvain William Martens",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^6.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hesa2020/FinalUnitTests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hesa2020/FinalUnitTests/issues"
+  },
+  "homepage": "https://github.com/hesa2020/FinalUnitTests#readme",
+  "main": "index.js"
+}
