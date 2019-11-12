@@ -8,8 +8,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1CA4FB3E-0D2A-4091-A846-83CE937306A5}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>FinalSelenium</RootNamespace>
-    <AssemblyName>FinalSelenium</AssemblyName>
+    <RootNamespace>FinalUnitTests</RootNamespace>
+    <AssemblyName>FinalUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
